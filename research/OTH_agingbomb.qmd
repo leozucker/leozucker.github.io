@@ -3,7 +3,7 @@ title: "Aging is the real population bomb."
 author: 
     - David E. Bloom
     - Leo Zucker
-date: "2023"
+date: "7/11/2023"
 ---
 
 In [_Finance & Development Magazine_](https://www.imf.org/en/Publications/fandd/issues/Series/Analytical-Series/aging-is-the-real-population-bomb-bloom-zucker)
