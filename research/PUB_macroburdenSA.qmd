@@ -8,7 +8,7 @@ author:
     - Faith Ross
     - Leo Zucker
     - David E. Bloom
-date: "2023"
+date: "8/8/2023"
 ---
 
 In [_PLOS One_](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293144)
