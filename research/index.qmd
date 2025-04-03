@@ -2,10 +2,18 @@
 title: "Research"
 listing:
   - id: published_papers
+    date-format: YYYY
+    sort: 
+      - "date"
+      - "title desc"
     type: default
     contents:
       - "PUB_*.qmd"
   - id: other_publications
+    date-format: YYYY
+    sort: 
+      - "date"
+      - "title desc"
     type: default
     contents: 
       - "OTH_*.qmd"

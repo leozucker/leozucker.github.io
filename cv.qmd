@@ -2,7 +2,7 @@
 title: "Leo M. Zucker"
 about:
   template: trestles
-  image: badphoto.pmg
+  image: badphoto.png
   links:
     - icon: person_check
       text: ORCiD
