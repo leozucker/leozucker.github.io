@@ -4,14 +4,15 @@ project:
 
 website:
   title: "Home"
-  favicon: logo.png
+  favicon: logo.jpg
   navbar:
+    logo: logo.jpg
     left:
       - href: about.qmd
         text: About
       - href: research/index.qmd
         text: Research
-      - href: cv.pdf
+      - href: cv.qmd
         text: CV
 
 format:

@@ -1,51 +1,100 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Simone",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Leo M. Zucker",
     "section": "",
-    "text": "A longer paragraph about me and my interests and anything else I like to do."
+    "text": "Enjoy a bad picture of me in the meantime."
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Simone",
-    "section": "Education",
-    "text": "Education\nWhere I studied"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "Simone",
-    "section": "Experience",
-    "text": "Experience\nWhat I’ve done"
-  },
-  {
-    "objectID": "research/paper-1.html",
-    "href": "research/paper-1.html",
-    "title": "My First Paper",
+    "objectID": "cv.html#under-work",
+    "href": "cv.html#under-work",
+    "title": "Leo M. Zucker",
     "section": "",
-    "text": "A description of my paper.\nCould include a photo, or links, or anything at all!"
+    "text": "Enjoy a bad picture of me in the meantime."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Leo M. Zucker",
+    "section": "",
+    "text": "Greetings!\nI am a Ph.D. student in economics at Brown University.\nMy current interests are in long-run and international macroeconomics."
+  },
+  {
+    "objectID": "research/PUB_timeuseindia.html",
+    "href": "research/PUB_timeuseindia.html",
+    "title": "Time use among older adults in India: patterns, differentials, and implications for life satisfaction.",
+    "section": "",
+    "text": "In Handbook of Aging, Health and Public Policy\nThis paper provides new estimates of how older people in India spend their time and how their time allocations correlate to life satisfaction. Using data from the baseline 2017 to 2019 wave of the Longitudinal Aging Study in India, the proportion of people who engage in personal care, leisure, and productive activities and their daily time allocations to these activities were computed for Indians aged 50 and older. It is found that although participation in paid work decreased with age, older adults nevertheless spent a considerable amount of time in productive market activities. Noteworthy gender and socioeconomic disparities in participation in paid work, exercise, and social activities were identified. A positive (negative) association between participation in social activities (instrumental caregiving) and life satisfaction was observed. The findings of this paper help to identify areas of priority attention in India’s response to population aging and highlight gaps in the promotion of healthy aging."
+  },
+  {
+    "objectID": "research/PUB_macroburdenSA.html",
+    "href": "research/PUB_macroburdenSA.html",
+    "title": "The macroeconomic burden of noncommunicable diseases and mental health conditions in South America.",
+    "section": "",
+    "text": "In PLOS One\nNoncommunicable diseases and mental health conditions (referred to collectively as NMHs) are the greatest cause of preventable death, illness, and disability in South America and negatively affect countries’ economic performance through their detrimental impacts on labor supply and capital investments. Sound, evidence-based policy-making requires a deep understanding of the macroeconomic costs of NMHs and of their distribution across countries and diseases. The paper estimates and projects the macroeconomic burden of NMHs over the period 2020–2050 in 10 South American countries. We estimate the impact of NMHs on gross domestic product (GDP) through a human capital-augmented production function approach, accounting for mortality and morbidity effects of NMHs on labor supply, for the impact of treatment costs on physical capital accumulation, and for variations in human capital by age. Our central estimates suggest that the overall burden of NMHs in these countries amounts to $7.3 trillion (2022 international $, 3% discount rate, 95% confidence interval: $6.8–$7.8 trillion). Overall, the macroeconomic burden of NMHs is around 4% of total GDP over 2020–2050, with little variation across countries (from 3.2% in Peru to 4.5% in Brazil). In other words, without NMHs, annual GDP over 2020–2050 would be about 4% larger. In most countries, the largest macroeconomic burden is associated with cancers. Results from the paper point to a significant macroeconomic burden of NMHs in South America and provide a strong justification for investment in NMH prevention, early detection, treatment, and formal and informal care."
+  },
+  {
+    "objectID": "research/PUB_timeuseolder.html",
+    "href": "research/PUB_timeuseolder.html",
+    "title": "Patterns of time use among older people.",
+    "section": "",
+    "text": "In The Routledge Handbook of the Economics of Ageing (working paper)\nWe analyze time use studies to describe how people allocate their time as they age, especially among paid work, unpaid work, leisure, and personal care. We emphasize differences in time allocation between older (i.e., those aged 65+) and younger people; between developed and developing countries; and by other demographic characteristics such as gender, marital status, health status, and educational attainment. We summarize related economic literature and crystallize a framework for thinking about key conceptual issues involving time allocation over the life cycle. We conclude by assessing the adequacy of global data resources in this area and by discussing some promising opportunities to fill salient gaps in the literature."
+  },
+  {
+    "objectID": "research/OTH_agingbomb.html",
+    "href": "research/OTH_agingbomb.html",
+    "title": "Aging is the real population bomb.",
+    "section": "",
+    "text": "In Finance & Development Magazine"
   },
   {
     "objectID": "research/index.html",
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "All of my research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Paper\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2024\n\n\nSimone , Matthew DeHaven\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Project\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2024\n\n\nSimone\n\n\n\n\n\n\nNo matching items"
+    "text": "Dec 31, 2022\n\n\nMaddalena Ferranna, JP Sevilla, Leo Zucker, David E. Bloom\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDec 31, 2022\n\n\nDaniel Cadarette, Maddalena Ferranna, Jeffrey W. Cannon, Kaja Abbas, Fiona Giannini, Leo Zucker, David E. Bloom\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDec 31, 2022\n\n\nMaddalena Ferranna, Daniel Cadarette, Simiao Chen, Parastou Ghazi, Faith Ross, Leo Zucker, David E. Bloom\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDec 31, 2022\n\n\nArunika Agarwal, Maddalena Ferranna, Leo Zucker, David E. Bloom\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "research/project-1.html",
-    "href": "research/project-1.html",
-    "title": "My First Project",
+    "objectID": "research/index.html#published-papers",
+    "href": "research/index.html#published-papers",
+    "title": "Research",
     "section": "",
-    "text": "A description of my project.\nCould include a photo, or links, or anything at all!"
+    "text": "Dec 31, 2022\n\n\nMaddalena Ferranna, JP Sevilla, Leo Zucker, David E. Bloom\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDec 31, 2022\n\n\nDaniel Cadarette, Maddalena Ferranna, Jeffrey W. Cannon, Kaja Abbas, Fiona Giannini, Leo Zucker, David E. Bloom\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDec 31, 2022\n\n\nMaddalena Ferranna, Daniel Cadarette, Simiao Chen, Parastou Ghazi, Faith Ross, Leo Zucker, David E. Bloom\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDec 31, 2022\n\n\nArunika Agarwal, Maddalena Ferranna, Leo Zucker, David E. Bloom\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Simone",
+    "objectID": "research/index.html#other-publications",
+    "href": "research/index.html#other-publications",
+    "title": "Research",
+    "section": "Other Publications",
+    "text": "Other Publications\n\n\n\n\n\n\n\n\n\n\nAging is the real population bomb.\n\n\n\n\n\n\n\n\n\n\n\nDec 31, 2022\n\n\nDavid E. Bloom, Leo Zucker\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/PUB_strepAvax.html",
+    "href": "research/PUB_strepAvax.html",
+    "title": "The full health, economic, and social benefits of prospective strep A vaccination.",
     "section": "",
-    "text": "I am a Ph.D. student in upside-down studies at Sunspot University.\nMost of my current research is driven by trying to find an answer to the age-old question of “How cute am I?”\nPlease feel free to get in touch!"
+    "text": "In npj Vaccines\nRecent research has documented a wide range of health, economic, and social bene ts conferred by vaccination, beyond the direct reductions in morbidity, mortality, and future healthcare costs traditionally captured in economic evaluations. In this paper, we describe the societal bene ts that would likely stem from widespread administration of safe and effective vaccines against Streptococcus pyogenes (Strep A), which was estimated to be the fth-leading cause of infectious disease deaths globally prior to the COVID-19 pandemic. We then estimate the global societal gains from prospective Strep A vaccination through a value-per-statistical-life approach. Estimated aggregate lifetime bene ts for 30 global birth cohorts range from $1.7 to $5.1 trillion, depending on the age at which vaccination is administered and other factors. These results suggest that the bene ts of Strep A vaccination would be large and justify substantial investment in the vaccines’ development, manufacture, and delivery."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Leo M. Zucker",
+    "section": "",
+    "text": "I worked in development research and financial regulation before starting to pursue economics seriously in 2020.\nFollowing a year of graduate studies in applied economics at the University of Maryland, I joined the research group of Prof. David Bloom at Harvard T.H. Chan School of Public Health as a predoctoral research assistant with a portfolio centered on the economics of health and population.\nI then joined the Research Department of the Inter-American Development Bank as a research fellow supporting Razvan Vlaicu’s agenda on financial inclusion.\nI chose to pursue doctoral studies at Brown University on its economics department’s strengths in long-run growth and international macro."
+  },
+  {
+    "objectID": "about.html#bio",
+    "href": "about.html#bio",
+    "title": "Leo M. Zucker",
+    "section": "",
+    "text": "I worked in development research and financial regulation before starting to pursue economics seriously in 2020.\nFollowing a year of graduate studies in applied economics at the University of Maryland, I joined the research group of Prof. David Bloom at Harvard T.H. Chan School of Public Health as a predoctoral research assistant with a portfolio centered on the economics of health and population.\nI then joined the Research Department of the Inter-American Development Bank as a research fellow supporting Razvan Vlaicu’s agenda on financial inclusion.\nI chose to pursue doctoral studies at Brown University on its economics department’s strengths in long-run growth and international macro."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Leo M. Zucker",
+    "section": "Education",
+    "text": "Education\nPhD (economics), Brown University, 2024-\nGraduate Certificate (economic analysis), University of Maryland, College Park, 2020-2021\nB.S. in Foreign Service (International Political Economy), Georgetown University, 2013-2017"
   }
 ]

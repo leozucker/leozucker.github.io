@@ -1,0 +1,13 @@
+---
+title: "Patterns of time use among older people."
+author: 
+    - Maddalena Ferranna
+    - JP Sevilla
+    - Leo Zucker
+    - David E. Bloom
+date: "2023"
+---
+
+In _The Routledge Handbook of the Economics of Ageing_ [(working paper)](https://www.nber.org/papers/w30030)
+
+We analyze time use studies to describe how people allocate their time as they age, especially among paid work, unpaid work, leisure, and personal care. We emphasize differences in time allocation between older (i.e., those aged 65+) and younger people; between developed and developing countries; and by other demographic characteristics such as gender, marital status, health status, and educational attainment. We summarize related economic literature and crystallize a framework for thinking about key conceptual issues involving time allocation over the life cycle. We conclude by assessing the adequacy of global data resources in this area and by discussing some promising opportunities to fill salient gaps in the literature.

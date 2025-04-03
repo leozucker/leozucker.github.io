@@ -1,9 +1,22 @@
 ---
 title: "Research"
 listing:
-  type: default
-  contents:
-    - "*.qmd"
+  - id: published_papers
+    type: default
+    contents:
+      - "PUB_*.qmd"
+  - id: other_publications
+    type: default
+    contents: 
+      - "OTH_*.qmd"
 ---
 
-All of my research projects.
+## Published Papers
+
+:::{#published_papers}
+:::
+
+## Other Publications
+
+:::{#other_publications}
+:::

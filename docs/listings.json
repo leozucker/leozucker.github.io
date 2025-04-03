@@ -2,8 +2,11 @@
   {
     "listing": "/research/index.html",
     "items": [
-      "/research/paper-1.html",
-      "/research/project-1.html"
+      "/research/PUB_timeuseolder.html",
+      "/research/PUB_strepAvax.html",
+      "/research/PUB_macroburdenSA.html",
+      "/research/PUB_timeuseindia.html",
+      "/research/OTH_agingbomb.html"
     ]
   }
 ]

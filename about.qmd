@@ -1,29 +1,40 @@
 ---
-title: "Simone"
+title: "Leo M. Zucker"
 about:
   template: trestles
-  image: profile.jpg
+  image: logo.jpg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
+    - icon: person_check
+      text: ORCiD
+      href: https://orcid.org/0009-0009-5633-9680
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/leozucker
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/leozucker
     - icon: google
       text: Google Scholar
-      href: https://scholar.google.com
+      href: https://scholar.google.com/citations?hl=en&authuser=1&user=2I0lNHwAAAAJ
+    - icon: envelope_at
+      text: Email
+      href: mailto:leo_zucker@brown.edu
 ---
 
-A longer paragraph about me and my interests and anything else I like to do.
+## Bio
+
+I worked in development research and financial regulation before starting to pursue economics seriously in 2020.
+
+Following a year of graduate studies in applied economics at the University of Maryland, I joined the research group of Prof. David Bloom at Harvard T.H. Chan School of Public Health as a predoctoral research assistant with a portfolio centered on the economics of health and population.
+
+I then joined the Research Department of the Inter-American Development Bank as a research fellow supporting Razvan Vlaicu's agenda on financial inclusion.
+
+I chose to pursue doctoral studies at Brown University on its economics department's strengths in long-run growth and international macro.
 
 ## Education
 
-Where I studied
+PhD (economics), **Brown University**, 2024-
 
-## Experience
+Graduate Certificate (economic analysis), **University of Maryland, College Park**, 2020-2021
 
-What I've done
+B.S. in Foreign Service (International Political Economy), **Georgetown University**, 2013-2017

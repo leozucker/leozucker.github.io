@@ -1,0 +1,16 @@
+---
+title: "The full health, economic, and social benefits of prospective strep A vaccination."
+author: 
+    - Daniel Cadarette
+    - Maddalena Ferranna
+    - Jeffrey W. Cannon
+    - Kaja Abbas
+    - Fiona Giannini
+    - Leo Zucker
+    - David E. Bloom
+date: "2023"
+---
+
+In [_npj Vaccines_](https://www.nature.com/articles/s41541-023-00758-z.pdf)
+
+Recent research has documented a wide range of health, economic, and social bene ts conferred by vaccination, beyond the direct reductions in morbidity, mortality, and future healthcare costs traditionally captured in economic evaluations. In this paper, we describe the societal bene ts that would likely stem from widespread administration of safe and effective vaccines against Streptococcus pyogenes (Strep A), which was estimated to be the fth-leading cause of infectious disease deaths globally prior to the COVID-19 pandemic. We then estimate the global societal gains from prospective Strep A vaccination through a value-per-statistical-life approach. Estimated aggregate lifetime bene ts for 30 global birth cohorts range from $1.7 to $5.1 trillion, depending on the age at which vaccination is administered and other factors. These results suggest that the bene ts of Strep A vaccination would be large and justify substantial investment in the vaccines’ development, manufacture, and delivery.

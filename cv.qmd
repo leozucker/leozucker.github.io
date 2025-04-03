@@ -1,8 +1,8 @@
 ---
 title: "Leo M. Zucker"
 about:
-  template: jolla
-  image: profile.jpg
+  template: trestles
+  image: badphoto.pmg
   links:
     - icon: person_check
       text: ORCiD
@@ -21,8 +21,6 @@ about:
       href: mailto:leo_zucker@brown.edu
 ---
 
-Greetings!
+## Under Work
 
-I am a Ph.D. student in economics at Brown University.
-
-My current interests are in long-run and international macroeconomics.
+Enjoy a bad picture of me in the meantime.

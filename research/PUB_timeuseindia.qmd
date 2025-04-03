@@ -1,0 +1,13 @@
+---
+title: "Time use among older adults in India: patterns, differentials, and implications for life satisfaction."
+author: 
+  - Arunika Agarwal
+  - Maddalena Ferranna
+  - Leo Zucker
+  - David E. Bloom
+date: "2023"
+---
+
+In [_Handbook of Aging, Health and Public Policy_](https://link.springer.com/referenceworkentry/10.1007/978-981-16-1914-4_4-1)
+
+This paper provides new estimates of how older people in India spend their time and how their time allocations correlate to life satisfaction. Using data from the baseline 2017 to 2019 wave of the Longitudinal Aging Study in India, the proportion of people who engage in personal care, leisure, and productive activities and their daily time allocations to these activities were computed for Indians aged 50 and older. It is found that although participation in paid work decreased with age, older adults nevertheless spent a considerable amount of time in productive market activities. Noteworthy gender and socioeconomic disparities in participation in paid work, exercise, and social activities were identified. A positive (negative) association between participation in social activities (instrumental caregiving) and life satisfaction was observed. The findings of this paper help to identify areas of priority attention in India’s response to population aging and highlight gaps in the promotion of healthy aging.
