@@ -2,7 +2,7 @@
 title: "Research"
 listing:
   - id: published_papers
-    date-format: YYYY
+    date-format: "YYYY"
     sort: 
       - "date"
       - "title desc"
@@ -10,7 +10,7 @@ listing:
     contents:
       - "PUB_*.qmd"
   - id: other_publications
-    date-format: YYYY
+    date-format: "YYYY"
     sort: 
       - "date"
       - "title desc"
